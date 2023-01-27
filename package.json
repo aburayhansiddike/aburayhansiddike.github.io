@@ -1,0 +1,27 @@
+{
+  "name": "aburayhansiddike.github.io",
+  "version": "1.0.0",
+  "description": "Thanks for downloading this theme!",
+  "main": "index.js",
+  "directories": {
+    "lib": "public/lib"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aburayhansiddike/aburayhansiddike.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aburayhansiddike/aburayhansiddike.github.io/issues"
+  },
+  "homepage": "https://github.com/aburayhansiddike/aburayhansiddike.github.io#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
